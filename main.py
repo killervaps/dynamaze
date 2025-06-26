@@ -40,7 +40,7 @@ last_updated_minute = -1
 current_explosion_range = 1
 
 def setup():
-    pygame.display.set_caption("Bomb It PvP")
+    pygame.display.set_caption("Dynamaze")
 
 def update_loop():
     global game_over, bomb_counter, game_timer, last_updated_minute, current_explosion_range
